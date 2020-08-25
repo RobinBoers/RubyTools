@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "highlands/ruby"
+    "layer0": "rubytools/ruby"
   }
 }

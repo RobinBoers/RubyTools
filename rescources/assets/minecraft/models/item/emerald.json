@@ -4,6 +4,6 @@
         "layer0": "item/emerald"
     },
     "overrides": [
-        {"predicate": {"custom_model_data": 1},"model": "highlands/ruby"}
+        {"predicate": {"custom_model_data": 1},"model": "rubytools/ruby"}
     ]
 }
